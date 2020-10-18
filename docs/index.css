@@ -82,6 +82,6 @@
     transition: background-color 1s;
     transition: opacity 0.5s;
     opacity: 0.8;
-    background-color: darkorchid;
+/*     background-color: darkorchid; */
     border-radius: 5px;
 }
